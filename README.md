@@ -1,6 +1,11 @@
 htmtogml
 ========
 
+# Note to Good Tech group 
+
+This script was developed by Steve Masiclat for other work, but may serve as a foundation for the Salton Vector analysis.  
+GML = Graph Markup Language (for importing into Mathematica)
+
 
 # Installation
 
